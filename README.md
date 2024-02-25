@@ -1,9 +1,5 @@
-### Hi there 👋
+### Hi there 👋 I am Adolf Fernandes
 
-<!--
-**AdolfReeve/AdolfReeve** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- getting started on github
--->
+- 📖Studying at Manipal Institue of Technology
+- ✨Interested in biology and electronics  
+- 📍Manipal, India
