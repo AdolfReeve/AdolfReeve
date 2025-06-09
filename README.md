@@ -1,3 +1,4 @@
 ### Hi there 👋 I am Adolf Fernandes
 
-- 📖Studying at Manipal Institue of Technology
+- 📖Electronics Engineering (VLSI) Undergrad at MIT, Manipal
+- Batch of 2027
